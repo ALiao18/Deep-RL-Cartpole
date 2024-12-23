@@ -1,5 +1,3 @@
-Here's the raw markdown for the README that you can directly copy and paste into GitHub:
-
 ```markdown
 # Deep Reinforcement Learning Project - Policy Gradient Methods
 
